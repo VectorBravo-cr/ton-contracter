@@ -1,21 +1,6 @@
 {
     "attributes": [
-      {
-        "trait_type": "Hashrate",
-        "value": "125"
-      },
-      {
-        "trait_type": "Pool",
-        "value": "eu.emcd.io"
-      },
-      {
-        "trait_type": "Device_share",
-        "value": "3/10"
-      },
-      {
-        "trait_type": "Device_UID",
-        "value": "11111-8e31-461b-a0a5-013346a2ef9a"
-      }
+      
     ],
     "description": "",
     "external_url": "https://t.me/w3m_space",
