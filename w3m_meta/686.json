@@ -1,0 +1,26 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Hashrate",
+            "value": "1 Th"
+        },
+        {
+            "trait_type": "Pool",
+            "value": "eu.emcd.io"
+        },
+        {
+            "trait_type": "Device_share",
+            "value": "087/120"
+        },
+        {
+            "trait_type": "Device_UID",
+            "value": "b3578741-e571-4e27-8792-82ed540bd595"
+        }
+    ],
+    "description": "W3M token - USDC",
+    "external_url": "https://t.me/crowdspacedao",
+    "image": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmULvpbgcEfJ7mAKuMbfT51eFfZ7jmEPz6tn9ePWuKgRwj?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*1ksuezf*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3ODg5OC4zLjAuMTY5OTI3ODg5OC42MC4wLjA.png",
+    "content_url": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmP9ZR8oCDGfhAaisfpDhRWVUFrJSidfaBP3BhGMEgyniF?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*f747in*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3NTA0MS4yLjEuMTY5OTI3NTE3NC42MC4wLjA.mp4",
+    "content_type": "video/mp4",
+    "name": "WEB3MINING USDC NFT #087"
+}
