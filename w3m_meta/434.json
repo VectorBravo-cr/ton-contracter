@@ -1,0 +1,26 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Hashrate",
+            "value": "1 Th"
+        },
+        {
+            "trait_type": "Pool",
+            "value": "eu.emcd.io"
+        },
+        {
+            "trait_type": "Device_share",
+            "value": "075/120"
+        },
+        {
+            "trait_type": "Device_UID",
+            "value": "ab1c3-c50b-132a-b9c5-0c3083a2cg9a"
+        }
+    ],
+    "description": "W3M token - BNB",
+    "external_url": "https://t.me/crowdspacedao",
+    "image": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmYKFPAnpPDTBGSR9Jj5NssVzVZDH9mJTy8BEnyNTvkGm1?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*1ksuezf*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3ODg5OC4zLjAuMTY5OTI3ODg5OC42MC4wLjA.png",
+    "content_url": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmcDQmX2Z9nGyom3LyA13GFkgLYkJX82ywQyMcwwyYWCcL?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*f747in*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3NTA0MS4yLjEuMTY5OTI3NTE3NC42MC4wLjA.mp4",
+    "content_type": "video/mp4",
+    "name": "WEB3MINING BNB NFT #075"
+}
