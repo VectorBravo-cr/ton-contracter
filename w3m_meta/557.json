@@ -1,0 +1,26 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Hashrate",
+            "value": "1 Th"
+        },
+        {
+            "trait_type": "Pool",
+            "value": "eu.emcd.io"
+        },
+        {
+            "trait_type": "Device_share",
+            "value": "078/120"
+        },
+        {
+            "trait_type": "Device_UID",
+            "value": "aa7c4-c50b-432b-c7c2-0c9808a2ba9a"
+        }
+    ],
+    "description": "W3M token - XRP",
+    "external_url": "https://t.me/crowdspacedao",
+    "image": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmQAg7PvG1zSX7QB9cqXnoUKypMjrmmbUfMSWwTeVRYtSb?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*1ksuezf*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3ODg5OC4zLjAuMTY5OTI3ODg5OC42MC4wLjA.png",
+    "content_url": "https://olive-useful-ocelot-380.mypinata.cloud/ipfs/QmRfm5arZP54Fd4RDeLuYkcXrBQg6V4hZKSp4qLe5rRXvq?pinataGatewayToken=THSzBiB0mjvFGCxunHP809UWaDE11mBDK9BeXPGIuZ4twheRPB_vgcXs6MfuGv6Z&_gl=1*f747in*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3NTA0MS4yLjEuMTY5OTI3NTE3NC42MC4wLjA.mp4",
+    "content_type": "video/mp4",
+    "name": "WEB3MINING XRP NFT #078"
+}
