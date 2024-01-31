@@ -6,7 +6,7 @@
         },
         {
             "trait_type": "Pool",
-            "value": "eu.emcd.io"
+            "value": "mypool"
         },
         {
             "trait_type": "Device_share",
