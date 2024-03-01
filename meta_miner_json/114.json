@@ -1,0 +1,34 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Device Brand",
+            "value": "Whatsminer M50"
+        },
+        {
+            "trait_type": "Hashrate",
+            "value": "118 Th"
+        },
+        {
+            "trait_type": "Pool",
+            "value": "www.viabtc.com"
+        },
+        {
+            "trait_type": "Device_share",
+            "value": "001/001"
+        },
+        {
+            "trait_type": "Device_UID",
+            "value": "54808baa-a7bb-4821-b4b9-4623cbadfbaa"
+        },
+        {
+            "trait_type": "Power_Effect",
+            "value": "3.5 kW/h"
+        }
+    ],
+    "description": "",
+    "external_url": "https://w3m.space/",
+    "image": "https://coffee-deliberate-goose-222.mypinata.cloud/ipfs/QmethoWuuUPLgZLnyZu3ZGGdekNUpk9dCzyx2AdBT3zTLq?pinataGatewayToken=omVhNpkFXfY-dCl1asp0v3ZgKT8f6-10zWvANHip6KObGRzDsGmmPwysWTIxw0Nb&_gl=1*1ksuezf*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3ODg5OC4zLjAuMTY5OTI3ODg5OC42MC4wLjA.png",
+    "content_url": "https://coffee-deliberate-goose-222.mypinata.cloud/ipfs/QmdpxwzuUxhG1aGtgQCBNdXotgJYSj4pYjydXc98yfkvMb?pinataGatewayToken=omVhNpkFXfY-dCl1asp0v3ZgKT8f6-10zWvANHip6KObGRzDsGmmPwysWTIxw0Nb&_gl=1*f747in*_ga*ODE3MzExNDIxLjE2OTkyNjAzMTg.*_ga_5RMPXG14TE*MTY5OTI3NTA0MS4yLjEuMTY5OTI3NTE3NC42MC4wLjA.mp4.mp4",
+    "content_type": "video/mp4",
+    "name": "Whatsminer M50 TH/s #00115"
+}
