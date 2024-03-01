@@ -1,0 +1,34 @@
+{
+  "attributes": [
+      {
+          "trait_type": "Device Brand",
+          "value": "WhatsMiner"
+      },
+      {
+          "trait_type": "Hashrate",
+          "value": "118 Th"
+      },
+      {
+          "trait_type": "Pool",
+          "value": "www.viabtc.com"
+      },
+      {
+          "trait_type": "Device_share",
+          "value": "001/001"
+      },
+      {
+          "trait_type": "Device_UID",
+          "value": "c050f2cf-c6b5-40da-b173-68ec09a21c50"
+      },
+      {
+          "trait_type": "Power_Effect",
+          "value": "3.5 kW"
+      }
+  ],
+  "description": "W3M Miner - WhatsMiner M50",
+  "external_url": "https://t.me/crowdspacedao",
+  "image": "https://coffee-deliberate-goose-222.mypinata.cloud/ipfs/QmethoWuuUPLgZLnyZu3ZGGdekNUpk9dCzyx2AdBT3zTLq?pinataGatewayToken=omVhNpkFXfY-dCl1asp0v3ZgKT8f6-10zWvANHip6KObGRzDsGmmPwysWTIxw0Nb.png",
+  "content_url": "https://coffee-deliberate-goose-222.mypinata.cloud/ipfs/QmdpxwzuUxhG1aGtgQCBNdXotgJYSj4pYjydXc98yfkvMb?pinataGatewayToken=omVhNpkFXfY-dCl1asp0v3ZgKT8f6-10zWvANHip6KObGRzDsGmmPwysWTIxw0Nb.mp4",
+  "content_type": "video/mp4",
+  "name": "WEB3MINING Miner WhatsMiner #123"
+}
