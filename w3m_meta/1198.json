@@ -6,7 +6,7 @@
         },
         {
             "trait_type": "Pool",
-            "value": "eu.emcd.io"
+            "value": "TestPoolChangeNameInMetadata"
         },
         {
             "trait_type": "Device_share",
